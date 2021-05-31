@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.3.0",
+    "opusscript": "0.0.8",
+    "ytdl-core": "^4.7.0"
+  }
+}
